@@ -1,4 +1,4 @@
-public class recursion1 {
+public class recursion_subset_having_sum_equal_occurance {
 
     public static int subSeq(int ind, int s, int sum, int arr[], int n){
         if(ind == n){
